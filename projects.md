@@ -4,10 +4,10 @@
 
 ---
 
-## 🚀 Front-End Project
-**Project Name**  
-A responsive web application built with React.  
+## 🚀 Final Project
+**August's Movie Recommendations!** – A responsive web application.  
 
 ![Screenshot](project-screenshot.png)  
 
-🔗 [View on GitHub](https://github.com/your-username/your-project)
+🔗 [Live Demo](https://august-k-final-1.netlify.app/)  
+🔗 [View on GitHub](https://github.com/augustkeller/final-practice-unit-1-august-k)
