@@ -5,7 +5,7 @@
 ---
 
 ## 📑 Resume
-[Download My Resume](resume.pdf)
+[View My Resume]([resume.pdf](https://docs.google.com/document/d/1n5D14C6HWz7roFB3OpkNKVHkC-koxSSPPQUNbFZ6LMA/edit?tab=t.0))
 
 ---
 
