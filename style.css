@@ -97,7 +97,14 @@ img {
     height: auto;
     border-radius: 5px;
     margin: 20px 0;
-    border: 2px solid #4CAF50; /* green border for pop */
+    border: 2px solid #4CAF50;
+}
+
+.brand-img {
+    max-width: 250px;   
+    border-radius: 10%; 
+    margin: 20px 0;
+    border: 3px solid #4CAF50; 
 }
 
 footer {
